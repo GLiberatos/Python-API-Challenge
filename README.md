@@ -1,30 +1,28 @@
-# Python-API-Challenge
-
 # Weather Data Analysis and Vacation Planner
 
-# Weather Data Analysis Project
+  # Weather Data Analysis Project
 
-## Overview:
-This project utilizes the OpenWeatherMap API to retrieve weather data for random cities and examines the relationships between city latitude and various weather parameters. It generates scatter and linear regression plots to visualize these relationships.
+  ## Overview:
+  This project utilizes the OpenWeatherMap API to retrieve weather data for random cities and examines the relationships between city latitude and various weather parameters. It generates scatter and linear regression    plots to visualize these relationships.
 
-### Files:
- - weather_data_analysis.ipynb: Jupyter Notebook containing Python code.
- - output_data/: Directory containing output data and plots.
+  ### Files:
+   - weather_data_analysis.ipynb: Jupyter Notebook containing Python code.
+   - output_data/: Directory containing output data and plots.
 
-### Dependencies:
- - Python 3.x
- - Jupyter Notebook
- - Libraries: Matplotlib, Pandas, NumPy, Requests, SciPy, citipy
+  ### Dependencies:
+   - Python 3.x
+   - Jupyter Notebook
+   - Libraries: Matplotlib, Pandas, NumPy, Requests, SciPy, citipy
 
-### Usage:
- - Clone this repository and navigate to the project directory.
- - Install the required dependencies using pip.
- - Open the weather_data_analysis.ipynb file in Jupyter Notebook and execute the code cells.
- - Plots will be saved in the output_data/ directory.
+  ### Usage:
+   - Clone this repository and navigate to the project directory.
+   - Install the required dependencies using pip.
+   - Open the weather_data_analysis.ipynb file in Jupyter Notebook and execute the code cells.
+   - Plots will be saved in the output_data/ directory.
 
-### Results:
- - Analyzes how weather parameters vary with latitude.
- - Visualizes trends using scatter plots and regression analysis.
+  ### Results:
+   - Analyzes how weather parameters vary with latitude.
+   - Visualizes trends using scatter plots and regression analysis.
 
 # VacationPy
 
